@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --cod-white: #F3F3F1;
+  --cod-black:  #262625;
+
+
+  font-family: Inter, sans-serif;
+
+  color-scheme: light dark;
+  background-color: var(--cod-white);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+};
