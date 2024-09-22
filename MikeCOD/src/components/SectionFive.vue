@@ -29,7 +29,7 @@
 </template>
 
 <script setup>
-import SectionFive from '../assets/sectionFive.svg';
+import SectionFive from '../assets/SectionFive.svg';
 import LinaYellow from '../assets/LinaYellow.svg';
 import ChrisYellow from '../assets/ChrisYellow.svg';
 import StickerFive from '../assets/stickerFive.svg';

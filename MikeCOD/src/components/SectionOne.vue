@@ -28,7 +28,7 @@
 </template>
 
 <script setup>
-import SectionOne from '../assets/sectionOne.svg';
+import SectionOne from '../assets/SectionOne.svg';
 import Maislina from '../assets/maislina.svg';
 import StickerOne from '../assets/stickerOne.svg';
 </script>
