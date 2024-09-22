@@ -28,7 +28,7 @@
 <script setup>
 import SectionTwo from '../assets/SectionTwo.svg';
 import ChrisPink from '../assets/ChrisPink.svg';
-import StickerTwo from '../assets/stickerTwo.svg';
+import StickerTwo from '../assets/StickerTwo.svg';
 </script>
 
 <style scoped></style>
