@@ -4,7 +4,7 @@
             <div class="flex justify-between items-start p-4 mb-6 gap-20 text-sm">
                 <div class="flex flex-col justify-between items-start text-cod-black opacity-80">
                     <p class="uppercase font-medium">big boss</p>
-                    <p>/Infinite pts</p>
+                    <p class="font-semibold">/Infinite pts</p>
                 </div>
                 <h2 class="text-cod-black font-semibold uppercase">LE SUR-BOOSTED</h2>
             </div>

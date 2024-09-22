@@ -3,8 +3,8 @@
         <div class="flex justify-between items-center px-4">
             <div class="flex justify-between items-start p-4 mb-6 gap-20 text-sm">
                 <div class="flex flex-col justify-between items-start text-cod-black opacity-80">
-                    <p class="uppercase font-medium">responsive</p>
-                    <p>/2 pts</p>
+                    <p class="uppercase font-semibold">responsive</p>
+                    <p class="font-semibold">/2 pts</p>
                 </div>
                 <h2 class="text-cod-black font-semibold uppercase">LE CHERCHEUR DE BREAKPOINT</h2>
             </div>
