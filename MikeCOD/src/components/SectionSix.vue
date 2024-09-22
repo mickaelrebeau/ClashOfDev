@@ -32,7 +32,7 @@
 import SectionSix from '../assets/SectionSix.svg';
 import LinaOrange from '../assets/LinaOrange.svg';
 import ChrisOrange from '../assets/ChrisOrange.svg';
-import StickerSix from '../assets/stickerSix.svg';
+import StickerSix from '../assets/StickerSix.svg';
 </script>
 
 <style scoped></style>

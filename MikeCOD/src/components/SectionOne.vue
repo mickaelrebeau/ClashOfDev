@@ -29,8 +29,8 @@
 
 <script setup>
 import SectionOne from '../assets/SectionOne.svg';
-import Maislina from '../assets/maislina.svg';
-import StickerOne from '../assets/stickerOne.svg';
+import Maislina from '../assets/Maislina.svg';
+import StickerOne from '../assets/StickerOne.svg';
 </script>
 
 <style scoped></style>
