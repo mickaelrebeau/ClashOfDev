@@ -1,6 +1,6 @@
 <template>
   <div id="progress-bar" class="fixed top-0 left-0 h-1 bg-black z-50"></div>
-  <div class="max-w-144 h-screen mx-auto overflow-hidden h-screen">
+  <div class="max-w-144 h-screen mx-auto overflow-hidden">
     <div class="w-144 fixed top-0 z-10">
       <Header />
     </div>
