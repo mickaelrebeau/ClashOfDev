@@ -7,7 +7,7 @@
         <img :src="VectorSeven" alt="" class="icon-move absolute bottom-[230px] lg:bottom-[60px] right-8 lg:right-44">
       </p>
       <div class="relative">
-        <button class="btn-hover bg-cod-white border rounded-full px-12 py-5 mt-24 relative z-10">
+        <button class="btn-hover bg-cod-white border rounded-full px-12 py-5 mt-24 relative z-10" @click="OnClick">
           <p class="text-sm font-bold text-cod-black">Enter Next Level</p>
           <img :src="VectorFlash" alt="" class="icon-move absolute bottom-[-20px] right-2">
           <img :src="VectorStar" alt="" class="icon-move-two absolute top-[-20px] left-[-10px]">
@@ -28,6 +28,11 @@ import VectorStar from '../assets/VectorStar.svg';
 import Trophy from '../assets/Trophy.svg';
 
 import Footer from "./Footer.vue";
+
+const OnClick = () => {
+  console.log('Rick Rolled ! :p');
+  window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank');
+}
 </script>
 
 <style scoped>
